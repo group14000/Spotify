@@ -18,10 +18,6 @@ Welcome to Spotify, a simple and stylish music player web application that lets 
 4. Use the next and previous buttons to navigate through the playlist.
 5. Control the song playback using the play/pause button and the progress bar.
 
-## Preview
-
-![App Preview](app_preview.png)
-
 ## Technologies Used
 
 - HTML5
@@ -31,11 +27,10 @@ Welcome to Spotify, a simple and stylish music player web application that lets 
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- Digonta Halder ( https://github.com/group14000 )
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Feel the music, feel the vibes, and enjoy your musical journey with Spotify!
 
